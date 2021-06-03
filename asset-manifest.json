@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/VoiceAssist-NewsApp/static/css/main.ce7a4dce.chunk.css",
+    "main.js": "/VoiceAssist-NewsApp/static/js/main.b5b70e59.chunk.js",
+    "main.js.map": "/VoiceAssist-NewsApp/static/js/main.b5b70e59.chunk.js.map",
+    "runtime-main.js": "/VoiceAssist-NewsApp/static/js/runtime-main.9e0a506c.js",
+    "runtime-main.js.map": "/VoiceAssist-NewsApp/static/js/runtime-main.9e0a506c.js.map",
+    "static/js/2.06273808.chunk.js": "/VoiceAssist-NewsApp/static/js/2.06273808.chunk.js",
+    "static/js/2.06273808.chunk.js.map": "/VoiceAssist-NewsApp/static/js/2.06273808.chunk.js.map",
+    "static/js/3.4afbdb63.chunk.js": "/VoiceAssist-NewsApp/static/js/3.4afbdb63.chunk.js",
+    "static/js/3.4afbdb63.chunk.js.map": "/VoiceAssist-NewsApp/static/js/3.4afbdb63.chunk.js.map",
+    "index.html": "/VoiceAssist-NewsApp/index.html",
+    "service-worker.js": "/VoiceAssist-NewsApp/service-worker.js",
+    "service-worker.js.map": "/VoiceAssist-NewsApp/service-worker.js.map",
+    "static/css/main.ce7a4dce.chunk.css.map": "/VoiceAssist-NewsApp/static/css/main.ce7a4dce.chunk.css.map",
+    "static/js/2.06273808.chunk.js.LICENSE.txt": "/VoiceAssist-NewsApp/static/js/2.06273808.chunk.js.LICENSE.txt",
+    "static/media/news-dp.d07c6cb7.jpg": "/VoiceAssist-NewsApp/static/media/news-dp.d07c6cb7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e0a506c.js",
+    "static/js/2.06273808.chunk.js",
+    "static/css/main.ce7a4dce.chunk.css",
+    "static/js/main.b5b70e59.chunk.js"
+  ]
+}
